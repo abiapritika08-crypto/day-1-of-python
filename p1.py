@@ -1,7 +1,8 @@
-print("welcome to python class")
+name="virat"
+age=24
+height=7.6
 
-# print statement is used to display information on the
-# we need to mention in the double codes
+print(name)
+print(age)
+print(height)
 
-print(34)
-print("84")
